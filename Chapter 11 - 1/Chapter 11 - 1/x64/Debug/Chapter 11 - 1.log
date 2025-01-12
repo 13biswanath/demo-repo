@@ -1,0 +1,11 @@
+﻿  main.cpp
+C:\Users\bangl\source\repos\Chapter 11 - 1\Chapter 11 - 1\boxType.h(13,63): error C2065: 'w': undeclared identifier
+  (compiling source file 'main.cpp')
+  
+C:\Users\bangl\source\repos\Chapter 11 - 1\Chapter 11 - 1\boxType.h(34,24): error C3867: 'boxType::volume': non-standard syntax; use '&' to create a pointer to member
+  (compiling source file 'main.cpp')
+      C:\Users\bangl\source\repos\Chapter 11 - 1\Chapter 11 - 1\boxType.h(34,24):
+      the template instantiation context (the oldest one first) is
+          C:\Users\bangl\source\repos\Chapter 11 - 1\Chapter 11 - 1\boxType.h(34,4):
+          see reference to function template instantiation 'std::basic_ostream<_Elem,_Traits> &std::operator <<(std::basic_ostream<_Elem,_Traits> &,const std::error_code &)' being compiled
+  
